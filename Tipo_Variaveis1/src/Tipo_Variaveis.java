@@ -1,4 +1,4 @@
-public class App {
+public class Tipo_Variaveis {
     public static void main(String[] args) throws Exception {
         System.out.println("Hello, World!");
     }
